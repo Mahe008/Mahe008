@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Front-End Development
 - 💬 Ask me about Tech
 - 📫 How to reach me: <br/>
-<a href="https://www.linkedin.com/in/mahendran08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mahendranmahe9822@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" />
+<a href="https://www.linkedin.com/in/mahendran08/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mahendranmahe9822@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" />
 - 😄 Pronouns: Techie
 
 ### I code In
